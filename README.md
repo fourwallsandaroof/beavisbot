@@ -1,4 +1,4 @@
-BeavisBot
+BeavisBot :)
 ==========
 
 BeavisBot is a heavily-adapted port of the turntable.fm SparkleBot that has migrated from TT.fm to plug.dj to dubtrack.fm.
